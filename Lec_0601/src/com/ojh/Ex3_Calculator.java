@@ -1,6 +1,6 @@
 package com.ojh;
 
-public class Calculator {
+public class Ex3_Calculator {
 
 	public static void main(String[] args) {
 		System.out.println("=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+=+");

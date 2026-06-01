@@ -6,9 +6,9 @@ public class Ex4_Car {
 		
 		Car car = new Car();
 		
-//		System.out.println(car.brand);
-//		
-//		car.brand
+		// Q1. 차의 브랜드를 출력하세요
+		System.out.println(car.brand);
+
 	}
 
 }
