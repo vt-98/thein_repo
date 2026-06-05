@@ -1,6 +1,6 @@
 # =========================================================
 # Java Project .gitignore
-# Eclipse / IntelliJ / VSCode / Maven / Gradle °ø¿ë
+# Eclipse / IntelliJ / VSCode / Maven / Gradle ï¿½ï¿½ï¿½ï¿½
 # =========================================================
 
 # =========================
@@ -95,7 +95,7 @@ logs/
 *.sqlite
 
 # =========================
-# Node (React/Vue ¿¬°á ½Ã)
+# Node (React/Vue ï¿½ï¿½ï¿½ï¿½ ï¿½ï¿½)
 # =========================
 node_modules/
 
@@ -109,3 +109,6 @@ node_modules/
 # =========================
 *.tmp
 *.temp
+Lec_0604/src/com/thein/proj1/Account.java
+Lec_0604/src/com/thein/proj1/MyAccount.java
+Lec_0604/src/com/thein/proj1/Ex1_MyMain1.java
